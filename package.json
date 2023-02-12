@@ -1,0 +1,38 @@
+{
+    "name": "bevy-development-extension-pack",
+    "displayName": "Bevy Development Extension Pack",
+    "description": "Popular extensions for bevy development.",
+    "version": "0.1.0",
+    "license": "MIT",
+    "preview": true,
+    "private": true,
+    "publisher": "ramon-bernardo",
+    "icon": "logo.png",
+    "repository": {
+        "url": "https://github.com/ramon-bernardo/bevy-development-extension-pack"
+    },
+    "engines": {
+        "vscode": "^1.75.1"
+    },
+    "galleryBanner": {
+        "color": "#ffffff",
+        "theme": "dark"
+    },
+    "keywords": [
+        "Bevy"
+    ],
+    "categories": [
+        "Extension Packs"
+    ],
+    "homepage": "https://github.com/ramon-bernardo/bevy-development-extension-pack",
+    "bugs": {
+        "url": "https://github.com/ramon-bernardo/bevy-development-extension-pack/issues"
+    },
+    "extensionPack": [
+        "a5huynh.vscode-ron",
+        "cloudedcat.vscode-model-viewer",
+        "stxr.iconfont-preview",
+        "ramon-bernardo.rust-development-extension-pack",
+        "pixl.bevy-snippets"
+    ]
+}
